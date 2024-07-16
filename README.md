@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Komal Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -8,15 +8,12 @@
 <h2>About Me</h2>
 <p>🔭 Frontend Developer having passion of coding</p>
 <p>💻 Building projects using React, JavaScript, HTML, and CSS</p>
-🌱 Continuously learning and exploring new technologies, frameworks, and backend technologies like MERN (MongoDB, Express.js, React, Node.js)
+<p>
 📖 Enhancing my knowledge in data structures and algorithms (DSA)
-🎨 Familiar with design tools such as Figma
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+</p>
+<p>🎨 Familiar with design tools such as Figma</p>
+<p>🌱 Continuously learning and exploring new technologies, frameworks, and backend technologies like MERN (MongoDB, Express.js, React, Node.js)</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
