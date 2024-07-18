@@ -8,7 +8,7 @@
 <h2>About Me</h2>
 <p>🔭 Frontend Developer with a lot of passion of coding</p>
 <p>💻 Building projects using React, JavaScript, HTML, and CSS</p>
-<p>👩‍🎓 Engaging with backend technologies such as NodeJS,MongBDb</p>
+<p>👩‍🎓 Engaging with backend technologies such as NodeJS,MongoDb,Express.JS</p>
 <p>📖 Enhancing my knowledge in data structures and algorithms (DSA) by solving problems</p>
 <p>🎨 Familiar with design tools such as Figma to design the website efficiently</p>
 <p>⛓️ Familiar with deployement tools such as Git,Vercel</p>
